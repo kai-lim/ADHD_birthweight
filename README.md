@@ -10,28 +10,20 @@ In this project, I used structural equation modelling to study the effect of bir
 ## Data visualisations 🎨
 
 ### Figure 1
+<img align="right" src="Total ADHD Big.jpeg">
 Predicted ADHD symptoms of monozygotic twins from age 8 to 16 years
 
-<img align="right" src="Total ADHD Big.jpeg">
-
-<br>
-<br\>
 
 ### Figure 2
+<img align="right" src="MZ estimates.jpeg">
 Absolute standardized monozygotic twin estimates with 95% CI for total ADHD, hyperactivity/impulsivity (Hyp/Imp) and inattention symptoms across ages 8, 12, 14 and 16 years. All estimates are absolute values. The larger the estimates, the greater the effect of birth weight on ADHD symptoms.
 
-<img align="right" src="MZ estimates.jpeg">
-
-<br>
   
 ### Figure S1
+<img align="right" src="Inattention Big.jpeg">
 Predicted inattention levels of monozygotic twins for ADHD from age 8 to 16 years.
 
-<img align="right" src="Inattention Big.jpeg">
-
-<br>
 
 ### Figure S2
-Predicted hyperactivity/impulsivity levels of monozygotic twins for ADHD from age 8 to 16 years.
-
 <img align="right" src="Hyperactivity Big.jpeg">
+Predicted hyperactivity/impulsivity levels of monozygotic twins for ADHD from age 8 to 16 years.
