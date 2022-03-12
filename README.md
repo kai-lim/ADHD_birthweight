@@ -10,8 +10,9 @@ In this project, I used structural equation modelling to study the effect of bir
 ## Data visualisations 🎨
 
 ### Figure 1
-<img align="right" src="Total ADHD Big.jpeg">
 Predicted ADHD symptoms of monozygotic twins from age 8 to 16 years
+![Figure1](https://github.com/kai-lim/ADHD_birthweight/blob/main/Total%20ADHD%20Big.jpeg)
+
 
 
 ### Figure 2
