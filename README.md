@@ -15,7 +15,7 @@ Predicted ADHD symptoms of monozygotic twins from age 8 to 16 years
 <img align="right" src="Total ADHD Big.jpeg">
 
 <br>
-<br/>
+<br\>
 
 ### Figure 2
 Absolute standardized monozygotic twin estimates with 95% CI for total ADHD, hyperactivity/impulsivity (Hyp/Imp) and inattention symptoms across ages 8, 12, 14 and 16 years. All estimates are absolute values. The larger the estimates, the greater the effect of birth weight on ADHD symptoms.
