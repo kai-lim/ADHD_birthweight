@@ -2,7 +2,7 @@
 
 This is my first R research project and also my first published paper, which I conducted during the final year of my undergraduate. The project is currently published on the Journal of Child Psychology and Psychiatry. You can access the paper [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6175300/pdf/JCPP-59-1036.pdf).
 
-The step-by-step R script in htlml format is available on:  https://kai-lim.github.io/ADHD_birthweight/ 
+The step-by-step R script in html format is available on:  https://kai-lim.github.io/ADHD_birthweight/ 
 
 ## Summary 🎯
 In this project, I used structural equation modelling to study the effect of birthweight on ADHD symptoms in a longitudinal fashion from childhood to adolescoence. By using data from thousands of monozygotic twins, we could control for genetic and shared environmnetal confoundings. We found that lower birth weight is on the causal pathway to elevated ADHD symptoms. This effect persists across a 14-year period from childhood into late adolescence, in particular for inattention symptoms. 
