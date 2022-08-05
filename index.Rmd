@@ -942,6 +942,7 @@ The first section of the syntax  (split twins) is to split the twins - heavier t
 ```{r split twins}
 
 adhddatal=adhddata
+adhddatal=adhddatal[adhddatal$random==1,]
 
 #select MZ twins who at least have one adhd measure at any point of life, and have birth weight data. 
 #for CPRS total at ages 8, 12, 14 and 16. 
